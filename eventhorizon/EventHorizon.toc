@@ -1,0 +1,9 @@
+## Interface: 20400
+## Author: Tifi
+## Version: 0.1
+## Dependencies:
+## OptDeps: 
+## SavedVariables: EventHorizonDB
+
+#EventHorizon.xml
+EventHorizon.lua
